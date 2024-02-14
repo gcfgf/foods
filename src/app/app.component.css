@@ -1,0 +1,7 @@
+#foods{ 
+    display: grid;
+    grid-template-columns: repeat(4,300px);
+    margin: 5px;
+    justify-content: center;
+    
+}
